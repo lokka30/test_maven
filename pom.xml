@@ -43,9 +43,6 @@
         <configuration>
           <show>public</show>
           <nohelp>true</nohelp>
-          <!--
-          <stylesheetfile>${basedir}/styles/dracula-javadoc8.css</stylesheetfile>
-          -->
         </configuration>
       </plugin>
       <plugin>
