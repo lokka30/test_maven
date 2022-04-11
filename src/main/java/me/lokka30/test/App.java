@@ -1,4 +1,4 @@
-package me.lokka30;
+package me.lokka30.test;
 
 /**
  * Hello world!

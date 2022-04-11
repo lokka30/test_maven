@@ -1,4 +1,4 @@
-package me.lokka30;
+package me.lokka30.test;
 
 import org.junit.jupiter.api.Test;
 
